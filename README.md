@@ -1,4 +1,4 @@
-# Solar Power Prediction Using Machine Learning
+# Solar Power Prediction
 
 ## Overview
 This repository contains code and documentation for predicting AC power output from solar plants using various machine learning models. The project aims to optimize energy forecasting through data-driven approaches, leveraging solar panel data and weather sensor observations.
