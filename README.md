@@ -3,15 +3,11 @@
 ## Overview
 This repository contains code and documentation for predicting AC power output from solar plants using various machine learning models. The project aims to optimize energy forecasting through data-driven approaches, leveraging solar panel data and weather sensor observations.
 
-## Contributors
-- **Kartikeya Sehgal** - kartikeya22244@iiitd.ac.in
-- **Krishna Shukla** - krishna22254@iiitd.ac.in
-
 ## Problem Statement
 The primary objective is to develop robust models capable of accurately predicting AC power generation in two solar power plants based in India. This involves analyzing the impact of parameters such as irradiation, ambient temperature, and module temperature on power output.
 
 ## Dataset Description
-The dataset was sourced from a Kaggle competition, encompassing:
+The dataset was sourced by filling an agreement form Under the guidance of profesor A V Subramanyam
 - **Generation Data:** Recorded at 15-minute intervals, including DC power, AC power, daily yield, and total yield.
 - **Weather Sensor Data:** Also recorded at 15-minute intervals, comprising ambient temperature, module temperature, and irradiation.
 
